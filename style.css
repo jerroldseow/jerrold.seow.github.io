@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  background-image: url("https://staticdelivery.nexusmods.com/images/110/535448-1328651760.jpg");
+  color: black;
+  font-family: oswald, arial, sans-serif;
+  text-align: center; ;
+  line-height: em;
+  align-content: center;
+}
+
+
+h1{
+  color: white;
+  font-family: "oswald;
+}
+
+h2{
+	color: white;
+	font-family: "roboto";
+}
+
+
+h3{
+	color: silver;
+	font-family: "oswald;
+}
+
+
+.gold-text{
+	color: white;
+}
+
+.font-bold {
+	font-weight: 600;
+}
+
+table {
+	font-family: arial, sans-serif;
+	border-collapse: collapse;
+	width: 100%;
+	color: white;
+}
+
+td, th {
+	border: 1px solid #dddddd;
+	text-align: left;
+	padding: 8px;
+}
+
+.center {
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+P{ 
+	color: white
+}
